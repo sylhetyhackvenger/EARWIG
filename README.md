@@ -173,14 +173,6 @@ Data Flow Architecture
       └────────────────────┴────────────────────┘
 ```
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/Hn9UFbbZokeH40KVAk/giphy.gif"
-     width="100%"
-     alt="Dragon Ball Z Goku Rage GIF">
-
-</div>
-
 Step-by-Step Process
 
 1. File Preparation: The file is read and metadata (name, timestamps, permissions) is extracted
