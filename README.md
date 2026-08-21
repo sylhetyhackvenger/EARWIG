@@ -1,10 +1,9 @@
 # EARWIG - Advanced DNS Exfiltration Tool
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
-# A Professional Gray Hat Hacking Tool for Covert Data Transfer
 
-https://img.shields.io/badge/version-2.0-red
-https://img.shields.io/badge/python-3.6+-blue
-https://img.shields.io/badge/license-MIT-green
 
 # ⚠️ LEGAL DISCLAIMER
 
@@ -243,6 +242,10 @@ File Size Chunk Size Chunks Transfer Time
 Times approximate based on 100ms per DNS query
 
 ---
+
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 🛠️ Advanced Configuration
 
