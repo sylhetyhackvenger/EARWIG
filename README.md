@@ -3,7 +3,39 @@
   <img src="assets/1.png" alt="Banner 1" width="100%">
 </p>
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/Project-EARWIG-00ff00?style=for-the-badge&logo=securityscorecard&logoColor=white">
+
+<img src="https://img.shields.io/badge/Category-DNS%20Security-red?style=for-the-badge&logo=dns&logoColor=white">
+
+<img src="https://img.shields.io/badge/Purpose-Security%20Research-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white">
+
+<img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Termux-black?style=for-the-badge&logo=linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
+
+<br>
+
+<img src="https://img.shields.io/github/stars/sylhetyhackvenger/EARWIG?style=for-the-badge&logo=github&color=yellow">
+
+<img src="https://img.shields.io/github/forks/sylhetyhackvenger/EARWIG?style=for-the-badge&logo=github&color=orange">
+
+<img src="https://img.shields.io/github/license/sylhetyhackvenger/EARWIG?style=for-the-badge&color=brightgreen">
+
+<img src="https://img.shields.io/github/last-commit/sylhetyhackvenger/EARWIG?style=for-the-badge&color=cyan">
+
+![EARWIG](https://img.shields.io/badge/EARWIG-Advanced%20DNS%20Research%20Framework-black?style=for-the-badge&logo=protonvpn&logoColor=00ff00)
+
+![Security](https://img.shields.io/badge/Cybersecurity-Research-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+![Network](https://img.shields.io/badge/Network-DNS%20Analysis-purple?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+![Build](https://img.shields.io/badge/Build-Stable-blue?style=for-the-badge)
+
+</p>
 
 # ⚠️ LEGAL DISCLAIMER
 
